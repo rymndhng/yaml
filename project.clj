@@ -1,4 +1,4 @@
-(defproject org.clojars.rymndhng/yaml "1.0.9-SNAPSHOT"
+(defproject org.clojars.rymndhng/yaml "1.0.9"
   :description "A YAML library for Clojure"
   :url "http://github.com/owainlewis/yaml"
   :license {:name "Eclipse Public License"
